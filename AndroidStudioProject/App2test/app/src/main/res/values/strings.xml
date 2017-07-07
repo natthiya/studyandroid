@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App2test</string>
+    <string name="hell_bank_feagment">Hello blank feagment</string>
+    <string-array name="my_colore">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App 2</string>
+    <string name="hell_blank_fragment">Hello Blank Fragment</string>
+    <string-array name="my_colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
